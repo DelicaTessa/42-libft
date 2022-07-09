@@ -1,6 +1,5 @@
-[![tclement's 42 Libft Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/1898916)](https://github.com/JaeSeoKim/badge42)
-
 # libft
+[![tclement's 42 Libft Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/1898916)](https://github.com/JaeSeoKim/badge42)<br>
 ***This project creates a library with standard libc functions and several other generic functions, which will be used for other 42 projects.***
 
 The purpose is to help us develop a deep understanding of the standard libc functions and how to use them. 
